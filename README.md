@@ -24,7 +24,7 @@ In this repo, we provide OpenDataology artwork in 2 standard formats (png/svg), 
     <tbody>
 		<tr>
 			<th>color</th>
-			<td><a href="horizontal/color/opendataology_horizontal-color.png" download><img src="horizontal/color/opendataology_horizontal-color.png" width="200"></a></td>
+			<td><a href="horizontal/color/OpenDataology_horizontal-color.png" download><img src="horizontal/color/OpenDataology_horizontal-color.png" width="200"></a></td>
 			<td><a href="icon/color/opendataology_icon-color.png" download><img src="icon/color/opendataology_icon-color.png" width="75"></a></td>
 			<td><a href="horizontal/color/opendataology_horizontal-color.svg" download><img src="horizontal/color/opendataology_horizontal-color.svg" width="200"></a></td>
 			<td><a href="icon/color/opendataology_icon-color.png" download><img src="icon/color/opendataology_icon-color.png" width="75"></a></td>
